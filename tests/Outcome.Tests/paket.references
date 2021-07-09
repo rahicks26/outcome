@@ -1,0 +1,5 @@
+nuget Expecto
+nuget YoloDev.Expecto.TestSdk
+nuget Microsoft.NET.Test.Sdk
+nuget FSharp.Core
+nuget FsCheck

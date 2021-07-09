@@ -1,0 +1,10 @@
+source https://api.nuget.org/v3/index.json
+
+storage: symlink
+framework: net5.0
+
+nuget Expecto
+nuget YoloDev.Expecto.TestSdk
+nuget Microsoft.NET.Test.Sdk
+nuget FSharp.Core
+nuget FsCheck
